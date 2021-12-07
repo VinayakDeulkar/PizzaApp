@@ -1,0 +1,1 @@
+export const PIZZA_URL="http://localhost:8899/api/";
